@@ -248,7 +248,7 @@ Mobile Devices
 
 <tr class="odd">
 <td> <b>Climate Change<b> <br>
-<img src="images/climate-change.png" style="width:2.13889in;height:1.55726in" /></td>
+<img src="images/climate-change.jpg" style="width:2.13889in;height:1.55726in" /></td>
 <td><ul>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/70338-climate-data-toolbox-for-matlab">Climate Data Toolbox for MATLAB</a></li>
 <li><a href="https://blogs.mathworks.com/loren/2021/04/22/climate-data-toolbox-understanding-our-changing-climate/">[BLOG] Climate Data Toolbox: Understanding our Changing Climate</a></li>
