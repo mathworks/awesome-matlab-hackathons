@@ -29,6 +29,9 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_2) if you are a participant at a Major League Hacking Event.
 
+  * [Hack Cambridge Atlas](https://hackcambridge.com/)
+  * [QWER Hacks](https://www.qwerhacks.com/)
+
 # Other Hackathons supported by MathWorks
 
 
