@@ -37,6 +37,8 @@ Visit [this page to get a complimentary MATLAB & Simulink license](https://www.m
 
 # Other Hackathons supported by MathWorks
 
+ * [Smart India Hackathon 2022](https://www.mathworks.com/academia/hackathons/smart-india.html)
+
 
 # Getting Started Resources
 
