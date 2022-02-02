@@ -29,11 +29,10 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_2) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Hack Cambridge Atlas](https://hackcambridge.com/)
-  * [QWER Hacks](https://www.qwerhacks.com/)
-  * [MacHacks](https://www.mcmasterai.com/machacks)
-  * [CUhackit 2022](https://cuhack.it/#/)
-  * [MakeHarvard](https://www.makeharvard.io/)
+  * [Royal Hackaway v5](https://royalhackaway.com/#/)
+  * [Hacklahoma](https://hacklahoma.org/)
+  * [Pearl Hacks](https://pearlhacks.com/)
+  * [RevolutionUC](https://revolutionuc.com/)
 
 # Other Hackathons supported by MathWorks
 
