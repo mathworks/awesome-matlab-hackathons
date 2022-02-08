@@ -1,6 +1,8 @@
 <td>
 <img src="images/blog.png" style="width:2.13889in;height:1.55726in">
 </td>
+
+
 # Awesome MATLAB & Simulink Hackathons 
 *The license is available in the License file within this repository*
 
