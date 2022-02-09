@@ -1,5 +1,5 @@
 <td>
-<img src="images/blog.png" style="width:2.13889in;height:1.55726in">
+<img src="images/github-page-8x1.jpg" style="width:1275px;height:158.25px">
 </td>
 
 
