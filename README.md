@@ -34,8 +34,6 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_2) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Royal Hackaway v5](https://royalhackaway.com/#/)
-  * [Hacklahoma](https://hacklahoma.org/)
   * [Pearl Hacks](https://pearlhacks.com/)
   * [RevolutionUC](https://revolutionuc.com/)
   * [HackOwasp 4.0](https://hackowasp.live/)
