@@ -38,6 +38,13 @@ Visit [this page to get a complimentary MATLAB & Simulink license](https://www.m
   * [Hacklahoma](https://hacklahoma.org/)
   * [Pearl Hacks](https://pearlhacks.com/)
   * [RevolutionUC](https://revolutionuc.com/)
+  * [HackOwasp 4.0](https://hackowasp.live/)
+  * [HackMerced VII](https://hackmerced.com/#/)
+  * [HackGSU](http://hackgsu.com/)
+  * [Holy Hack](https://holyhack.aftleuven.be/)
+  * [WinHacks](https://winhacks.ca/)
+  * [GirlHacks](https://girlhacks.github.io/)
+  * [Hackabull](https://hackabull.io/)
 
 # Other Hackathons supported by MathWorks
 
