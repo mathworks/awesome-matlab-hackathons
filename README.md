@@ -129,7 +129,7 @@ Download and use community contributed code top help you get started or gain ins
 
 <tr class="odd">
 <td> <b>MATLAB Answers<b> <br>
-<img src="images/ground.png" style="width:2.13889in;height:1.55726in" /></td>
+
 <td><ul>
 Find Answers, Learn and Share your Knowledge
 <li><a href="https://www.mathworks.com/matlabcentral/answers/index/?s_tid=gn_mlc_an">Learn from the Community</a></li>
