@@ -34,9 +34,6 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_2) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Pearl Hacks](https://pearlhacks.com/)
-  * [RevolutionUC](https://revolutionuc.com/)
-  * [HackOwasp 4.0](https://hackowasp.live/)
   * [HackMerced VII](https://hackmerced.com/#/)
   * [HackGSU](http://hackgsu.com/)
   * [Holy Hack](https://holyhack.aftleuven.be/)
@@ -47,6 +44,7 @@ Visit [this page to get a complimentary MATLAB & Simulink license](https://www.m
 # Other Hackathons supported by MathWorks
 
  * [Smart India Hackathon 2022](https://www.mathworks.com/academia/hackathons/smart-india.html)
+ * [Stanford Big Earth Hackathon](https://www.mathworks.com/academia/hackathons/stanford-big-earth.html)
 
 
 # Getting Started Resources
