@@ -26,13 +26,13 @@ Below you will find:
 # How to Get MATLAB? 
 ***You will need a MathWorks Account***
 
- * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_2). (You will need a MathWorks account)
+ * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_3). (You will need a MathWorks account)
 
  * If you’re a student, your university may already provide MATLAB access. [Click here](https://www.mathworks.com/academia/tah-support-program/eligibility.html) to see if you already have access. 
 
 # MLH Supported Hackathons
 
-Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_2) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
+Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_3) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
   * [HackMerced VII](https://hackmerced.com/#/)
   * [HackGSU](http://hackgsu.com/)
