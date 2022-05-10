@@ -34,12 +34,11 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_3) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [HackMerced VII](https://hackmerced.com/#/)
-  * [HackGSU](http://hackgsu.com/)
-  * [Holy Hack](https://holyhack.aftleuven.be/)
-  * [WinHacks](https://winhacks.ca/)
-  * [GirlHacks](https://girlhacks.github.io/)
-  * [Hackabull](https://hackabull.io/)
+  * [Execute Hackathon 2.0](https://executehack.in/)
+  * [GryphHacks Hackathon](https://www.uoguelph.ca/ceps/events/2022/05/gryphhacks-hackathon)
+  * [PANTHERHACK](https://pantherhack.tech/)
+  * [Hacking Heist 2.0](https://hackingheist2.web.app/)
+  * [Hack3](https://hack3.co/)
 
 # Other Hackathons supported by MathWorks
 
