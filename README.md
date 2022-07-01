@@ -44,6 +44,7 @@ Visit [this page to get a complimentary MATLAB & Simulink desktop license](https
 
  * [Smart India Hackathon 2022](https://www.mathworks.com/academia/hackathons/smart-india.html)
  * [Stanford Big Earth Hackathon](https://www.mathworks.com/academia/hackathons/stanford-big-earth.html)
+ * [MATHack Western Cape 2022](https://www.mathworks.com/academia/student-competitions/mathack-western-cape.html)
 
 
 # Getting Started Resources
