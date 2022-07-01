@@ -26,13 +26,13 @@ Below you will find:
 # How to Get MATLAB? 
 ***You will need a MathWorks Account***
 
- * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_3). (You will need a MathWorks account)
+ * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary desktop license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_4) or the [complimentary MATLAB Online license here](https://www.mathworks.com/licensecenter/classroom/mo_mlh_4). (You will need a MathWorks account)
 
  * If you’re a student, your university may already provide MATLAB access. [Click here](https://www.mathworks.com/academia/tah-support-program/eligibility.html) to see if you already have access. 
 
 # MLH Supported Hackathons
 
-Visit [this page to get a complimentary MATLAB & Simulink license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_3) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
+Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_4) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_4) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
   * [Execute Hackathon 2.0](https://executehack.in/)
   * [GryphHacks Hackathon](https://www.uoguelph.ca/ceps/events/2022/05/gryphhacks-hackathon)
