@@ -41,6 +41,7 @@ Visit [this page to get a complimentary MATLAB & Simulink desktop license](https
 
  * [Smart India Hackathon 2022](https://www.mathworks.com/academia/hackathons/smart-india.html)
  * [MATHack Western Cape 2022](https://www.mathworks.com/academia/student-competitions/mathack-western-cape.html)
+ * [Concurs universitari de vídeos educatius de matemàtiques](https://www.mathworks.com/academia/student-competitions/concurs-universitari-hackathon.html)
 
 
 # Getting Started Resources
