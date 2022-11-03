@@ -4,11 +4,6 @@
 
 
 # Awesome MATLAB & Simulink Hackathons 
-*The license is available in the License file within this repository*
-
-*Copyright 2021 The MathWorks, Inc*
-
-
 
 **Bring your ideas to life with MATLAB & Simulink!**
 
