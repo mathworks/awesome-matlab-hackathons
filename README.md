@@ -29,13 +29,15 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_5) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_5) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Hack with a Crew](https://organize.mlh.io/participants/events/8203-hack-with-a-crew)
-  * [HoudiniHacks II](https://organize.mlh.io/participants/events/8204-houdinihacks-ii)
+  * [AI Hacks](https://organize.mlh.io/participants/events/8829-ai-hacks)
+  * [Space-a-thon](https://organize.mlh.io/participants/events/8986-space-a-thon)
+  * [ConUHacks](https://conuhacks.io/)
+  * [Hoya Hacks](https://hoyahacks.georgetown.domains/)
+  * [TAMUHacks](https://tamuhack.com/)
+  
 
 # Other Hackathons supported by MathWorks
 
- * [Smart India Hackathon 2022](https://www.mathworks.com/academia/hackathons/smart-india.html)
- * [MATHack Western Cape 2022](https://www.mathworks.com/academia/student-competitions/mathack-western-cape.html)
  * [Concurs universitari de vídeos educatius de matemàtiques](https://www.mathworks.com/academia/student-competitions/concurs-universitari-hackathon.html)
 
 
