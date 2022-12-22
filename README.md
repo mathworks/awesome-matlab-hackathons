@@ -23,7 +23,7 @@ Below you will find:
 
  * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary desktop license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_5) or the [complimentary MATLAB Online license here](https://www.mathworks.com/licensecenter/classroom/mo_mlh_5). (You will need a MathWorks account)
 
- * If you’re a student, your university may already provide MATLAB access. [Click here](https://www.mathworks.com/academia/tah-support-program/eligibility.html) to see if you already have access. 
+ * If you’re a student, your university may already provide MATLAB access.  Associate your email address with an existing license or access MATLAB for free. [Get started](https://login.mathworks.com/embedded-login/landing.html) 
 
 # MLH Supported Hackathons
 
