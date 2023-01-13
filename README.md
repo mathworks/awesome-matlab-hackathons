@@ -38,6 +38,7 @@ Visit [this page to get a complimentary MATLAB & Simulink desktop license](https
 # Other Hackathons supported by MathWorks
 
  * [Concurs universitari de vídeos educatius de matemàtiques](https://www.mathworks.com/academia/student-competitions/concurs-universitari-hackathon.html)
+ * [Responsible AI Hackathon](https://www.mathworks.com/academia/student-competitions/responsible-ai-hackathon.html)
 
 
 # Getting Started Resources
