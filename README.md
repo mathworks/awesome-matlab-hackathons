@@ -292,3 +292,14 @@ Examples and Code
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/47049-analyzing-weather-data-from-an-arduino-based-weather-station">Analyzing Weather Data from an Arduino-based Weather Station</a></li>
 </ul></td>
 </tr>
+
+</tbody>
+</table>
+
+ # Come Work With Us
+ 
+ Are you interested in joing the MathWorks? Check out the [Engineering Development Group](https://www.mathworks.com/company/jobs/students/edg.html) for exciting full-time and internship opportunities for new graduates and students
+ 
+ <td>
+<img src="images/github-page-8x1.jpg" style="width:1275px;height:158.25px">
+</td>
