@@ -29,7 +29,6 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_6) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_6) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Royal Hackaway](https://royalhackaway.com/)
   * [CUhackit 2023](https://cuhack.it/#/)
   * [ELLEHACKS 2023](https://ellehacks.com/)
   * [HackNYU](https://hacknyu.org/)
