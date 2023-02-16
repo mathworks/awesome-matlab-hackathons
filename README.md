@@ -37,6 +37,7 @@ Visit [this page to get a complimentary MATLAB & Simulink desktop license](https
   * [RevolutionUC](https://revolutionuc.com/)
   
 ***Best Use of MATLAB Prize Category***
+
 Use MATLAB and/or Simulink exclusively or integrate them into another tool for your next MLH Hackathon to win an exclusive MathWorks branded Wireless YoYo Speaker! Enter the "Best Use of MATLAB" Prize Category. 
   
   
