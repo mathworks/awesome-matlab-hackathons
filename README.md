@@ -21,22 +21,24 @@ Below you will find:
 # How to Get MATLAB? 
 ***You will need a MathWorks Account***
 
- * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary desktop license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_6) or the [complimentary MATLAB Online license here](https://www.mathworks.com/licensecenter/classroom/mo_mlh_6). (You will need a MathWorks account)
+ * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary desktop license here](https://www.mathworks.com/licensecenter/classroom/dc_mlh_7) or the [complimentary MATLAB Online license here](https://www.mathworks.com/licensecenter/classroom/mo_mlh_7). (You will need a MathWorks account)
 
  * If you’re a student, your university may already provide MATLAB access.  Associate your email address with an existing license or access MATLAB for free. [Get started](https://login.mathworks.com/embedded-login/landing.html?cid=mktg&wid=cwl) 
 
 # MLH Supported Hackathons
 
-Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_6) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_6) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
+Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_7) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_7) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Hack_NCState](https://hackncstate.org/)
-  * [Hardware Hackfest](https://organize.mlh.io/participants/events/9354-hardware-hackfest)
   * [PICKHACKS](https://pickhacks.io/)
   * [WECEHacks](https://wece.ece.illinois.edu/wecehacks)
   * [HackDartmouth](https://www.hackdartmouth.org/)
   * [Treasure Hacks](https://hackathon.treasurehacks.org/)
   * [LA Hacks](https://lahacks.com/home)
-
+  * [AI Hackfest](https://organize.mlh.io/participants/events/9491-ai-hackfest)
+  * [DragonHack](https://dragonhack.si/)
+  * [Hack the Workplace](https://organize.mlh.io/participants/events/9490-hack-the-workplace)
+  * [MetHacks](https://www.methacks.ca/)
+  * [HackUPC](https://hackupc.com/)
   
 ***Best Use of MATLAB Prize Category***
 
@@ -46,7 +48,6 @@ Use MATLAB and/or Simulink exclusively or integrate them into another tool for y
 
 # Other Hackathons supported by MathWorks
 
- * [Concurs universitari de vídeos educatius de matemàtiques](https://www.mathworks.com/academia/student-competitions/concurs-universitari-hackathon.html)
  * [Responsible AI Hackathon](https://www.mathworks.com/academia/student-competitions/responsible-ai-hackathon.html)
 
 
