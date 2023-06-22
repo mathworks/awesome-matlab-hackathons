@@ -33,7 +33,7 @@ Visit [this page to get a complimentary MATLAB & Simulink desktop license](https
   * [WECEHacks](https://wece.ece.illinois.edu/wecehacks)
   * [HackDartmouth](https://www.hackdartmouth.org/)
   * [Treasure Hacks](https://hackathon.treasurehacks.org/)
-  * [LA Hacks](https://lahacks.com/home)
+  * [LA Hacks](https://lahacks.com)
   * [AI Hackfest](https://organize.mlh.io/participants/events/9491-ai-hackfest)
   * [DragonHack](https://dragonhack.si/)
   * [Hack the Workplace](https://organize.mlh.io/participants/events/9490-hack-the-workplace)
