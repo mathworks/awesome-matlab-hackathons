@@ -29,16 +29,7 @@ Below you will find:
 
 Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_7) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_7) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [PICKHACKS](https://pickhacks.io/)
-  * [WECEHacks](https://wece.ece.illinois.edu/wecehacks)
-  * [HackDartmouth](https://www.hackdartmouth.org/)
-  * [Treasure Hacks](https://hackathon.treasurehacks.org/)
-  * [LA Hacks](https://lahacks.com)
-  * [AI Hackfest](https://organize.mlh.io/participants/events/9491-ai-hackfest)
-  * [DragonHack](https://dragonhack.si/)
-  * [Hack the Workplace](https://organize.mlh.io/participants/events/9490-hack-the-workplace)
-  * [MetHacks](https://www.methacks.ca/)
-  * [HackUPC](https://hackupc.com/)
+  * [StatusCode0](https://hackathon.iiitkalyani.ac.in/)
   
 ***Best Use of MATLAB Prize Category***
 
