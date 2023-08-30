@@ -33,6 +33,8 @@ Visit [this page to get a complimentary MATLAB & Simulink desktop license](https
   * [HackCMU 2023](https://www.acmatcmu.com/hackcmu/)
   * [ShellHacks](https://www.shellhacks.net/)
   * [TechNova](https://itstechnova.org/)
+  * [HACKMTY](https://hackmty.com/)
+  * [BIGRED//HACKS](https://www.bigredhacks.com/)
   * [HackUMBC](https://www.hackumbc.tech/)
   * [HACKUIOWA](https://hack.uiowa.edu/)
   
