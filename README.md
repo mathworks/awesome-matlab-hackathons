@@ -25,6 +25,18 @@ Below you will find:
 
  * If you’re a student, your university may already provide MATLAB access.  Associate your email address with an existing license or access MATLAB for free. [Get started](https://login.mathworks.com/embedded-login/landing.html?cid=mktg&wid=cwl) 
 
+# Hackathon Tips and Tricks
+
+Looking for inspiration for your projects? Check out our [livestream](https://www.youtube.com/watch?v=9Nc2cqiTsrk) on Thursday, September 21st at 11am EST, where we'll show how to tackle common hackathon workflows and save time on your hacks! This talk will cover:
+
+  * Creating Machine and Deep Learning Models
+  * Collecting data from your phone using MATLAB Mobile
+  * App Development
+  * IoT (Internet of Things)
+  * ... and more!
+
+[![Watch the video](https://img.youtube.com/vi/9Nc2cqiTsrk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9Nc2cqiTsrk)
+
 # MLH Supported Hackathons
 
 Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_8) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_8) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
