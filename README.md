@@ -27,7 +27,7 @@ Below you will find:
 
 # Hackathon Tips and Tricks
 
-Looking for inspiration for your projects? Check out our [livestream](https://www.youtube.com/watch?v=9Nc2cqiTsrk) on Thursday, September 21st at 11am EST, where we'll show how to tackle common hackathon workflows and save time on your hacks! This talk will cover:
+Looking for inspiration for your projects? Check out this recorded [livestream](https://www.youtube.com/watch?v=9Nc2cqiTsrk) to see how to tackle common hackathon workflows and save time on your hacks! This talk will cover:
 
   * Creating Machine and Deep Learning Models
   * Collecting data from your phone using MATLAB Mobile
