@@ -41,14 +41,16 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 
 Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_9) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_9) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [PennApps](https://2023f.pennapps.com/)
-  * [HackCMU 2023](https://www.acmatcmu.com/hackcmu/)
-  * [ShellHacks](https://www.shellhacks.net/)
-  * [TechNova](https://itstechnova.org/)
-  * [HACKMTY](https://hackmty.com/)
-  * [BIGRED//HACKS](https://www.bigredhacks.com/)
-  * [HackUMBC](https://www.hackumbc.tech/)
-  * [HACKUIOWA](https://hack.uiowa.edu/)
+  * [HackHarvard](https://hackharvard.io/)
+  * [Technica Hacks](https://gotechnica.org/)
+  * [Hack Dearborn](https://www.hackdearborn.org/)
+  * [HackTX 2023](https://hacktx.com/)
+  * [Cal Hacks](https://www.calhacks.io/)
+  * [HackUTD](https://x.hackutd.co/)
+  * [HackRPI](https://hackrpi.com/)
+  * [HackUMass]()
+  * [UniHack 5]()
+    
   
 ***Best Use of MATLAB Prize Category***
 
