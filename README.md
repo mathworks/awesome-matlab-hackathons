@@ -39,7 +39,7 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 
 # MLH Supported Hackathons
 
-Visit [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_9) or [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_9) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
+Visit [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_9) or [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_9) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
   * [HackHarvard](https://hackharvard.io/)
   * [Technica Hacks](https://gotechnica.org/)
