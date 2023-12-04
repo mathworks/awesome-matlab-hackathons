@@ -19,13 +19,6 @@ Below you will find:
   * [Getting Started Resources](#getting-started-resources)
   * [Resources by Application Area](#resources-by-application-area)
 
-# MATLAB Flipbook Mini Hack
-From **now through December 3rd**, you can participate in the MATLAB Flipbook Mini Hack! Use up to 2,000 characters of MATLAB code to generate an interesting or beautiful animation. You can remix others' entries to create something different or start from scratch and create something entirely unique!
-
-Learn more and sign up [here](https://www.mathworks.com/matlabcentral/contests/2023-matlab-mini-hack.html)!
-
-![](https://github.com/mathworks/awesome-matlab-hackathons/blob/main/images/Code%20Away%20Animation%20Contest.gif)
-
 # How to Get MATLAB? 
 ***You will need a MathWorks Account***
 
