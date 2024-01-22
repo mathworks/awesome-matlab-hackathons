@@ -11,7 +11,6 @@ Taking part in a Hackathon? MathWorks is partnering with Major League Hacking (M
 
 Below you will find: 
 
-  * [The MATLAB Flipbook Mini Hack](#matlab-flipbook-mini-hack)
   * [How To Get MATLAB](#how-to-get-matlab)
   * [Hackathon Tips and Tricks](#hackathon-tips-and-tricks)
   * [MLH Supported Hackathons](#mlh-supported-hackathons)
