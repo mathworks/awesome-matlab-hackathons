@@ -44,6 +44,7 @@ Visit [this page to get a complimentary MATLAB Online license](https://www.mathw
   * [Hack(H)er413 ](https://www.hackher413.com/)
   * [NSBEHacks 2024](https://nsbehacksuoft.ca/)
   * [RevolutionUC 2024 ](https://revolutionuc.com/)
+  * [cmd-f 2024](https://cmd-f.nwplus.io/)
     
   
 ***Best Use of MATLAB Prize Category***
