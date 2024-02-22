@@ -41,10 +41,11 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 
 Visit [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_9) or [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_9) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [Hack(H)er413 ](https://www.hackher413.com/)
   * [NSBEHacks 2024](https://nsbehacksuoft.ca/)
   * [RevolutionUC 2024 ](https://revolutionuc.com/)
   * [cmd-f 2024](https://cmd-f.nwplus.io/)
+  * [HackNITR 5.0 2024](https://hacknitr.com/)
+  * [HooHacks 2024](https://www.hoohacks.io/)
     
   
 ***Best Use of MATLAB Prize Category***
