@@ -41,11 +41,9 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 
 Visit [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/mo_mlh_11) or [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/dc_mlh_11) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
-  * [NSBEHacks 2024](https://nsbehacksuoft.ca/)
-  * [RevolutionUC 2024 ](https://revolutionuc.com/)
-  * [cmd-f 2024](https://cmd-f.nwplus.io/)
-  * [HackNITR 5.0 2024](https://hacknitr.com/)
-  * [HooHacks 2024](https://www.hoohacks.io/)
+  * [Riverhacks 2024](https://austincs.org/riverhacks)
+  * [UTA Datathon ](https://www.utadatathon.tech/)
+  * [HackDartmouth IX](https://www.hackdartmouth.org/)
     
   
 ***Best Use of MATLAB Prize Category***
