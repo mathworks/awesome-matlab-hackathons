@@ -307,7 +307,7 @@ Examples and Code
 
  # Come Work With Us
  
- Are you interested in joing the MathWorks? Check out the [Engineering Development Group](https://www.mathworks.com/company/jobs/students/edg.html?source=19210&s_eid=Rci_19210) for exciting full-time and internship opportunities for new graduates and students
+ Are you interested in joing the MathWorks? Check out the [Engineering Development Group](https://www.mathworks.com/company/jobs/students/edg.html) for exciting full-time and internship opportunities for new graduates and students
  
  <td>
 <img src="images/github-page-8x1.jpg" style="width:1275px;height:158.25px">
