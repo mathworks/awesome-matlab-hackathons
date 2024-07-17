@@ -42,6 +42,7 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 Visit [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/4488955_MO_mlh10/) or [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/4488955_DC_mlh10/) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
 
   * [Jamhacks 8](https://www.jamhacks.ca/)
+  * [Hack the 6ix](https://hackthe6ix.com/)
     
   
 ***Best Use of MATLAB Prize Category***
