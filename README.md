@@ -180,7 +180,8 @@ Find Answers, Learn and Share your Knowledge
 <td><ul>
 <li><a href="https://www.mathworks.com/campaigns/offers/mastering-machine-learning-with-matlab.html">Mastering Machine Learning: A Step-by-Step Guide with MATLAB</a></li>
 <li><a href="https://www.mathworks.com/help/stats/dimensionality-reduction.html">Dimensional Reduction and Feature Extraction</a></li>
-<li><a href="https://www.mathworks.com/help/deeplearning/deep-learning-import-and-export.html">Import networks from and export networks to external deep learning platforms</a></li>
+<li><a href="https://www.mathworks.com/help/deeplearning/import-deep-neural-networks.html">Import Deep Neural Networks</a></li>
+<li><a href="https://www.mathworks.com/help/deeplearning/export-deep-neural-networks.html">Export Deep Neural Networks</a></li>
 <li><a href="https://www.mathworks.com/help/deeplearning/gs/get-started-with-deep-network-designer.html">Get Started with Deep Network Designer</a></li>
 Deep Learning with Images
 <li><a href="https://www.mathworks.com/help/deeplearning/ug/create-simple-deep-learning-network-for-classification.html">Create Simple Deep Learning Network for Image Classification</a></li>
