@@ -46,6 +46,9 @@ Visit [this page to get a complimentary MATLAB Online license](https://www.mathw
   * [HackGT11](https://hack.gt/)
   * [Hack The Hill](https://2024.hackthehill.com/)
   * [Steel Hacks](https://steelhacks.com/)
+  * [StormHacks](https://stormhacks.com/)
+  * [HackHarvard](https://www.hackharvard.io/)
+  * [AI ATL](https://www.aiatl.io/)
     
   
 ***Best Use of MATLAB Prize Category***
