@@ -37,21 +37,7 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 
 [![Watch the video](https://img.youtube.com/vi/9Nc2cqiTsrk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9Nc2cqiTsrk)
 
-# MLH Supported Hackathons
-
-Visit [this page to get a complimentary MATLAB Online license](https://www.mathworks.com/licensecenter/classroom/4488955_MO_mlh10/) or [this page to get a complimentary MATLAB & Simulink desktop license](https://www.mathworks.com/licensecenter/classroom/4488955_DC_mlh10/) if you are a participant at a Major League Hacking Event. MLH Hackathons we support include:
-
-  * [HackPrinceton Fall 2024](https://www.hackprinceton.com/)
-  * [TAMU Datathon](https://www.tamudatathon.com/)
-    
-  
-***Best Use of MATLAB Prize Category***
-
-Use MATLAB and/or Simulink exclusively or integrate them into another tool for your next MLH Hackathon to win an exclusive MathWorks branded Wireless YoYo Speaker! Enter the "Best Use of MATLAB" Prize Category. 
-  
-  
-
-# Other Hackathons supported by MathWorks
+# Hackathons supported by MathWorks
 
  * [Responsible AI Hackathon](https://www.mathworks.com/academia/student-competitions/responsible-ai-hackathon.html)
 
