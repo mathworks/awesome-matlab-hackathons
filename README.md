@@ -13,15 +13,12 @@ Below you will find:
 
   * [How To Get MATLAB](#how-to-get-matlab)
   * [Hackathon Tips and Tricks](#hackathon-tips-and-tricks)
-  * [MLH Supported Hackathons](#mlh-supported-hackathons)
-  * [Other Hackathons Supported by MathWorks](#other-hackathons-supported-by-mathworks)
+  * [Hackathons Supported by MathWorks](#other-hackathons-supported-by-mathworks)
   * [Getting Started Resources](#getting-started-resources)
   * [Resources by Application Area](#resources-by-application-area)
 
 # How to Get MATLAB? 
 ***You will need a MathWorks Account***
-
- * If you are participating in a Major League Hacking (MLH) Hackathon and would like to access to MATLAB and Simulink, access the [complimentary desktop license here](https://www.mathworks.com/licensecenter/classroom/4488955_DC_mlh10/) or the [complimentary MATLAB Online license here](https://www.mathworks.com/licensecenter/classroom/4488955_MO_mlh10/). (You will need a MathWorks account)
 
  * If you’re a student, your university may already provide MATLAB access.  Associate your email address with an existing license or access MATLAB for free. [Get started](https://login.mathworks.com/embedded-login/landing.html?cid=mktg&wid=cwl) 
 
