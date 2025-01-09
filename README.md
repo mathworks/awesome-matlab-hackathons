@@ -7,7 +7,7 @@
 
 **Bring your ideas to life with MATLAB & Simulink!**
 
-Taking part in a Hackathon? MathWorks is partnering with Major League Hacking (MLH) to provide you with free access to MATLAB & Simulink. MATLAB is a programming language with specialized toolboxes for Computer Vision, Deep Learning, Signal Processing, Hardware Programming, Finance PLUS lots more. If you have any questions reach out to us at <hackathon@mathworks.com>.
+Taking part in a Hackathon? Check out these resources to dive into MATLAB and Simulink for your hacks! MATLAB is a programming language with specialized toolboxes for Computer Vision, Deep Learning, Signal Processing, Hardware Programming, Finance PLUS lots more. If you have any questions, reach out to us at <hackathon@mathworks.com>.
 
 Below you will find: 
 
