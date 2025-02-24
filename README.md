@@ -13,9 +13,9 @@ Below you will find:
 
   * [How To Get MATLAB](#how-to-get-matlab)
   * [Hackathon Tips and Tricks](#hackathon-tips-and-tricks)
-  * [Hackathons Supported by MathWorks](#other-hackathons-supported-by-mathworks)
   * [Getting Started Resources](#getting-started-resources)
   * [Resources by Application Area](#resources-by-application-area)
+  * [Run Your Own Hackathon](#run-your-own-hackathon)
 
 # How to Get MATLAB? 
 ***You will need a MathWorks Account***
@@ -33,11 +33,6 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
   * ... and more!
 
 [![Watch the video](https://img.youtube.com/vi/9Nc2cqiTsrk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9Nc2cqiTsrk)
-
-# Hackathons supported by MathWorks
-
- * [Responsible AI Hackathon](https://www.mathworks.com/academia/student-competitions/responsible-ai-hackathon.html)
-
 
 # Getting Started Resources
 
@@ -288,6 +283,14 @@ Examples and Code
 </tbody>
 </table>
 
+# Run Your Own Hackathon
+Interested in running a hackathon at your school? Check out the problem statements we offer at the GitHub repositories below, then reach out to us at hackathon@mathworks.com for resources!
+  * [Develop a fitness tracker](https://github.com/mathworks/matlab-mobile-fitness-tracker)
+  * [Build a Microgrid on Mars](https://github.com/mathworks/microgrid-on-mars-activity)
+  * [Create AI Models to Predict Patient Diabetes](https://github.com/mathworks/predicting-diabetes-mellitus)
+  * [Create AI Models to Predict Building Energy Consumption](https://github.com/mathworks/predicting-building-energy-consumption)
+  * [Develop a Path-Following Algorithm for a Drone](https://github.com/mathworks/drone-simulation)
+    
  # Come Work With Us
  
  Are you interested in joing the MathWorks? Check out the [Engineering Development Group](https://www.mathworks.com/company/jobs/students/edg.html) for exciting full-time and internship opportunities for new graduates and students
