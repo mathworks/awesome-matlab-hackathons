@@ -290,6 +290,7 @@ Interested in running a hackathon at your school? Check out the problem statemen
   * [Create AI Models to Predict Patient Diabetes](https://github.com/mathworks/predicting-diabetes-mellitus)
   * [Create AI Models to Predict Building Energy Consumption](https://github.com/mathworks/predicting-building-energy-consumption)
   * [Develop a Path-Following Algorithm for a Drone](https://github.com/mathworks/drone-simulation)
+  * [Decrypt Audio Signals](https://github.com/robert-dobre/Signal-Decryption-Challenge/tree/main)
     
  # Come Work With Us
  
