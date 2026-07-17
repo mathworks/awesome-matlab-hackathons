@@ -284,13 +284,8 @@ Examples and Code
 </table>
 
 # Run Your Own Hackathon
-Interested in running a hackathon at your school? Check out the problem statements we offer at the GitHub repositories below, then reach out to us at hackathon@mathworks.com for resources!
-  * [Develop a fitness tracker](https://github.com/mathworks/matlab-mobile-fitness-tracker)
-  * [Build a Microgrid on Mars](https://github.com/mathworks/microgrid-on-mars-activity)
-  * [Create AI Models to Predict Patient Diabetes](https://github.com/mathworks/predicting-diabetes-mellitus)
-  * [Create AI Models to Predict Building Energy Consumption](https://github.com/mathworks/predicting-building-energy-consumption)
-  * [Develop a Path-Following Algorithm for a Drone](https://github.com/mathworks/drone-simulation)
-  * [Decrypt Audio Signals](https://github.com/robert-dobre/Signal-Decryption-Challenge/tree/main)
+Interested in running a hackathon at your school? Check out the GitHub repository below to find problem statements, promotional templates, guidelines, and more, then reach out to us at hackathon@mathworks.com for additional resources!
+* [Hackathon in a Box](https://github.com/mathworks/hackathon-in-a-box/tree/main)
     
  # Come Work With Us
  
