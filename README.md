@@ -38,8 +38,8 @@ Looking for inspiration for your projects? Check out this recorded [livestream](
 
 <table>
 <tbody>
+ 
 <tr class="odd">
-
 <td> <b>Learn MATLAB<b> <br>
 <img src="images/ml.png" style="width:2.13889in;height:1.55726in" /></td>
 <td><ul>
@@ -114,13 +114,11 @@ Download and use community contributed code top help you get started or gain ins
 
 <tr class="odd">
 <td> <b>MATLAB Answers<b> <br>
-
 <td><ul>
 Find Answers, Learn and Share your Knowledge
 <li><a href="https://www.mathworks.com/matlabcentral/answers/index/?s_tid=gn_mlc_an">Learn from the Community</a></li>
 </ul></td>
 </tr>
-
 
 
 </tbody>
@@ -144,8 +142,6 @@ Find Answers, Learn and Share your Knowledge
 <li><a href="https://www.mathworks.com/help/stats/classification-learner-app.html">Classification Learner App</a></li>
 <li><a href="https://www.mathworks.com/help/stats/regression-learner-app.html">Regression Learning App</a></li>
 <li><a href="https://www.mathworks.com/help/stats/support-vector-machine-classification.html">Support Vector Machine Classification</a></li>
-
-
 </ul></td>
 </tr>
 
@@ -168,7 +164,6 @@ Deep Learning with Time Series and Sequence Data
 <li><a href="https://www.mathworks.com/help/deeplearning/ug/classify-sequence-data-using-lstm-networks.html">Sequence Classification Using Deep Learning</a></li>
 <li><a href="https://www.mathworks.com/help/deeplearning/ug/classify-ecg-signals-using-long-short-term-memory-networks.html">Classify ECG Signals Using Long Short-Term Memory Networks</a></li>
 <li><a href="https://www.mathworks.com/help/deeplearning/ug/voice-activity-detection-in-noise-using-deep-learning.html">Voice Activity Detection in Noise using Deep Learning</a></li>
-
 </ul></td>
 </tr>
 
@@ -204,9 +199,6 @@ Examples and Code
 <li><a href="https://www.youtube.com/watch?v=OocdPu1Tcrg">[VIDEO] How to Call MATLAB from Python</a></li>
 <li><a href="https://www.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html?s_tid=srchtitle_python_4">Configure Your System to Use Python</a></li>
 <li><a href="https://www.mathworks.com/help/matlab/matlab_external/matlab-arrays-as-python-variables.html?s_tid=srchtitle_python%20and%20matlab_5">MATLAB Arrays as Python Variables</a></li>
-
-
-
 </ul></td>
 
 
@@ -245,19 +237,21 @@ Mobile Devices
 <li><a href="https://www.mathworks.com/videos/backtesting-trading-strategies-in-just-8-lines-of-code-1499289703258.html">Backtesting Trading Strategies in Just 8 Lines of Code</a></li>
 <li><a href="https://www.mathworks.com/videos/series/getting-started-with-trading-toolbox-94461.html">[VIDEO] Getting started with Trading Toolbox</a></li>
 <li><a href="https://www.mathworks.com/campaigns/offers/financial-time-series-cheat-sheets.html">5 MATLAB Cheat Sheets for Forecasting Financial Time Series</a></li>
-
 </ul></td>
 </tr>
 
 
 <tr class="odd">
-<td> <b>Climate Change<b> <br>
+<td> <b>Climate & Earth Sciences<b> <br>
 <img src="images/climate-change.jpg" style="width:2.13889in;height:1.55726in" /></td>
 <td><ul>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/70338-climate-data-toolbox-for-matlab">Climate Data Toolbox for MATLAB</a></li>
 <li><a href="https://blogs.mathworks.com/loren/2021/04/22/climate-data-toolbox-understanding-our-changing-climate/">[BLOG] Climate Data Toolbox: Understanding our Changing Climate</a></li>
 <li><a href="https://www.mathworks.com/matlabcentral/fileexchange/77542-visualizations-of-northern-hemisphere-sea-ice-concentration?tab=example&focused=">Visualizations of Northern Hemisphere Sea Ice Concentration</a></li>
 <li><a href="https://github.com/beaudu/sunrise">MATLAB code to compute sunrise and sunset times from any location on Earth</a></li>
+<li><a href="https://www.mathworks.com/solutions/geoscience/working-with-geoscience-data.html">Working with Geoscience Data in MATLAB</a></li>
+<li><a href="https://blogs.mathworks.com/student-lounge/2023/11/29/kelp-wanted-challenge-starter-code/">Segmenting Kelp in Satellite Data</a></li>
+<li><a href="https://www.mathworks.com/help/map/create-a-world-map.html">Create Your First World Map</a></li>
 </ul></td>
 </tr>
 
